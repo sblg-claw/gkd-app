@@ -14,9 +14,9 @@
 
 | 平台 | 下载 | 说明 |
 |------|------|------|
-| 🪟 **Windows** | [GKD_setup_1.3.3.exe](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_setup_1.3.3.exe) | Win 10/11 64 位 |
-| 🍎 **macOS (Apple 芯片)** | [GKD_setup_1.3.3_arm64.dmg](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_setup_1.3.3_arm64.dmg) | M1/M2/M3/M4 |
-| 🍎 **macOS (Intel)** | [GKD_setup_1.3.3_x64.dmg](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_setup_1.3.3_x64.dmg) | Intel Mac |
+| 🪟 **Windows** | [GKD_setup.exe](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_setup.exe) | Win 10/11 64 位 |
+| 🍎 **macOS (Apple 芯片)** | [GKD_setup_arm64.dmg](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_setup_arm64.dmg) | M1/M2/M3/M4 |
+| 🍎 **macOS (Intel)** | [GKD_setup_x64.dmg](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_setup_x64.dmg) | Intel Mac |
 | 🤖 **Android (arm64)** | [GKD_arm64-v8a.apk](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_arm64-v8a.apk) | 新手机首选 |
 | 🤖 **Android (通用)** | [GKD_universal.apk](https://github.com/sblg-claw/gkd-app/releases/latest/download/GKD_universal.apk) | 兼容全架构 |
 
